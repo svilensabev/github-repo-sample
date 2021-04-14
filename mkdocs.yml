@@ -1,0 +1,4 @@
+site_name: Github repo docs
+nav:
+    - Home: index.md
+    - Tasks: tasks.md
