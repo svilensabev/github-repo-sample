@@ -1,4 +1,13 @@
 site_name: Github repo docs
+repo_url: https://github.com/svilensabev/github-repo-sample
+strict: true
+theme:
+  name: material
+  palette:
+    primary: blue
+  font:
+    text: Work Sans
+  #logo: assets/logo.png
 nav:
-    - Home: index.md
-    - Tasks: tasks.md
+  - Home: index.md
+  - Tasks: tasks.md
